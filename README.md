@@ -23,6 +23,8 @@ I'm a **Software Engineering student at SZABIST Karachi**, interested in buildin
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
 
 ## 📊 GitHub Stats
+![GitHub trophies](./profile/trophy.svg)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justahmed06&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -32,4 +34,4 @@ I'm a **Software Engineering student at SZABIST Karachi**, interested in buildin
 
 ---
 
-![Profile visits](https://komarev.com/ghpvc/?username=justahmed06&color=1)
+![Profile visits](https://komarev.com/ghpvc/?username=justahmed06&color=0e75b6)
