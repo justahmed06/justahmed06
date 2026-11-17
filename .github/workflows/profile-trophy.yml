@@ -18,7 +18,7 @@ jobs:
       - name: Generate trophy SVG
         uses: soulteary/github-profile-trophy-action@v1
         with:
-          options: 'username=justahmed06&theme=ambient_gradient&column=7&margin-w=4&margin-h=4'
+          options: 'username=justahmed06&theme=dracula&column=7&margin-w=4&margin-h=4'
           path: profile/trophy.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
