@@ -32,4 +32,4 @@ I'm a **Software Engineering student at SZABIST Karachi**, interested in buildin
 
 ---
 
-[![Profile visits](https://komarev.com/ghpvc/?username=justahmed06&color=1)](https://visitcount.itsvg.in)
+![Profile visits](https://komarev.com/ghpvc/?username=justahmed06&color=1)
