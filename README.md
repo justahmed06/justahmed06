@@ -26,14 +26,10 @@ I'm a **Software Engineering student at SZABIST Karachi**, interested in buildin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justahmed06&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=justahmed06&theme=ambient_gradient&hide_border=false)
+![GitHub streak](https://streak-stats.demolab.com?user=justahmed06&theme=ambient_gradient&hide_border=false)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justahmed06&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![GitHub trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=justahmed06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
-[![Profile visits](https://visitcount.itsvg.in/api?id=justahmed06&icon=8&color=1)](https://visitcount.itsvg.in)
+[![Profile visits](https://komarev.com/ghpvc/?username=justahmed06&color=1)](https://visitcount.itsvg.in)
